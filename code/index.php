@@ -116,3 +116,13 @@ foreach ($list4 as $n) {
         break;
     }
 }
+
+// task 15
+echo "<br>#15<br>";
+function printStringReturnNumber(string $string):int
+{
+    echo $string."<br>";
+    return 1;
+}
+$my_num = printStringReturnNumber('is worked');
+echo $my_num;
