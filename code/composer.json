@@ -1,0 +1,13 @@
+{
+  "name": "Local_Docker/code",
+  "authors": [
+    {
+      "name": "Alex",
+      "email": "lehayarigin@mail.ru"
+    }
+  ],
+  "require": {
+    "google/apiclient": "2.0",
+    "guzzlehttp/guzzle": "~5.3.1"
+  }
+}
